@@ -8,4 +8,4 @@ main_finally.py 为最终的主方法，替代了上面的main.py
 captcha_picture.jpg 是下载下来的验证码图片，需要人工识别
 
 
-在 setting 填入自己的账号密码
+在 setting.py文件中 填入自己的账号密码
