@@ -20,8 +20,8 @@ locate = {
 }
 
 # 账号 密码
-username = '18119763126'
-password = 'WJ13275643265'
+username = 'xxxxxxxxxxxxx'
+password = 'xxxxxxxxxxxxx'
 
 # json串中代表的意思
 data_to_int = {
