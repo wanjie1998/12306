@@ -1,8 +1,10 @@
 setting.py 保存一些必要变量, 配置文件
 login.py 定义了一个Login类，用来登陆
+identify_captcha.py 定义了一个IdentifyCaptchaPicture类，用来识别验证码
 check_remaining_ticket.py 定义了一个CheckTicket类，用来监控余票
 buy_ticket.py 定义了一个BuyTicket类，用来买票
 main.py 定义了一个主方法，用来控制整个程序的流程
 captcha_picture.jpg 是下载下来的验证码图片
 
 在 setting.py文件中 填入自己的账号密码
+代码中缺失output_graph.pb这个训练好的模型文件，所以程序不能直接运行
