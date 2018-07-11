@@ -1,0 +1,11 @@
+setting.py 保存一些必要变量, 配置文件
+login.py 定义了一个Login类，用来登陆
+check_remaining_ticket.py 定义了一个CheckTicket类，用来监控余票
+check_remaining_ticket_finally.py 重新定义了CheckTicket类，替代了上面的类
+buy_ticket.py 定义了一个BuyTicket类，用来买票
+main.py 定义了一个主方法，用来控制整个程序的流程
+main_finally.py 为最终的主方法，替代了上面的main.py
+captcha_picture.jpg 是下载下来的验证码图片，需要人工识别
+
+
+在 setting 填入自己的账号密码
